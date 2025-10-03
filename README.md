@@ -58,7 +58,8 @@ O projeto segue a estrutura de diretórios padrão do Maven/Gradle, separando cl
 └── br/
 └── com/
 └── calcularimposto/
-└── CalculadoraImpostoTest.java (Arquivos para testar a aplicação)
+└── ProdutoTest01.java (Arquivos para testar a aplicação)
+└── ProdutoTest02.java (Arquivos para testar a aplicação)
 ```
 ## Como Executar
 
