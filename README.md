@@ -72,7 +72,7 @@ Este projeto foi criado para fins de estudo e não possui uma classe de aplicaç
 2.  **Execução:**
     * Importe o projeto na sua IDE.
     * Navegue até o diretório `src/test/java/br/com/calcularimposto/`.
-    * Execute o método `main` dentro da classe `CalculadoraImpostoTest.java` (ou `ProdutoTest01.java`/`ProdutoTest02.java`).
+    * Execute o método `main` dentro da classe `ProdutoTest01.java`/`ProdutoTest02.java`).
     * O resultado da simulação do cálculo de impostos será exibido no console.
 
 ### Exemplo de Saída no Console
